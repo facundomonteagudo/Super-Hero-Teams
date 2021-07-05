@@ -1,8 +1,5 @@
-import { Button } from "@chakra-ui/button";
-import { Box, Heading } from "@chakra-ui/layout";
-import { useRef } from "react";
+import { Box } from "@chakra-ui/layout";
 import Header from "./components/Header";
-import SearchArea from "./components/HeroSearch/SearchArea";
 import HeroTeam from "./components/HeroTeam/HeroTeam";
 import { TeamContextProvider } from "./Context/TeamContext/TeamContext";
 import { AppContextProvider } from "./Context/AppContext";
