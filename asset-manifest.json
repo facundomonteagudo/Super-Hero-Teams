@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Super-Hero-Teams/static/css/main.cb843256.chunk.css",
+    "main.js": "/Super-Hero-Teams/static/js/main.16331ac4.chunk.js",
+    "main.js.map": "/Super-Hero-Teams/static/js/main.16331ac4.chunk.js.map",
+    "runtime-main.js": "/Super-Hero-Teams/static/js/runtime-main.2f0ec4e7.js",
+    "runtime-main.js.map": "/Super-Hero-Teams/static/js/runtime-main.2f0ec4e7.js.map",
+    "static/js/2.eef9bae8.chunk.js": "/Super-Hero-Teams/static/js/2.eef9bae8.chunk.js",
+    "static/js/2.eef9bae8.chunk.js.map": "/Super-Hero-Teams/static/js/2.eef9bae8.chunk.js.map",
+    "index.html": "/Super-Hero-Teams/index.html",
+    "static/css/main.cb843256.chunk.css.map": "/Super-Hero-Teams/static/css/main.cb843256.chunk.css.map",
+    "static/js/2.eef9bae8.chunk.js.LICENSE.txt": "/Super-Hero-Teams/static/js/2.eef9bae8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f0ec4e7.js",
+    "static/js/2.eef9bae8.chunk.js",
+    "static/css/main.cb843256.chunk.css",
+    "static/js/main.16331ac4.chunk.js"
+  ]
+}
